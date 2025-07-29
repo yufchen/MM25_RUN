@@ -6,9 +6,9 @@ This document summarizes the point rendering statistics under HoL (Head-of-Line)
 ## Dataset: Plane
 
 <p align="center">
-  <img src="fig_example/Plane_orig.png" width="250"/>
-  <img src="fig_example/Plane_wHoL.png" width="250"/>
-  <img src="fig_example/Plane_woHoL.png" width="250"/>
+  <img src="fig_example/Plane_orig.png" height="160"/>
+  <img src="fig_example/Plane_wHoL.png" height="160"/>
+  <img src="fig_example/Plane_woHoL.png" height="160"/>
 </p>
 
 <p align="center">
