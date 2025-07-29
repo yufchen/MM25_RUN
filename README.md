@@ -5,11 +5,11 @@ This document summarizes the point rendering statistics under HoL (Head-of-Line)
 ---
 ## Dataset: Plane
 
-![Original](figs/Plane_orig.png)
+![Original](fig_example/Plane_orig.png)
 *Original*
 
-![With HoL (10736 points)](figs/Plane_withHoL.png)
+![With HoL (10736 points)](fig_example/Plane_withHoL.png)
 *with HoL (10,736 points)*
 
-![Without HoL (10736 points)](figs/Plane_woHoL.png)
+![Without HoL (10736 points)](fig_example/Plane_woHoL.png)
 *without HoL (10,736 points)*
