@@ -6,11 +6,11 @@ This page provides supplemental visualization results for the paper **"RUN: A Ca
 
 The figures below demonstrate the impact of Head-of-Line (HoL) blocking across different datasets.  
 Each row shows:
-- The original reference rendering
+- The original reference dataset
 - The output under HoL blocking
-- The output using out-of-order delivery (without HoL)
+- The expected output without HoL blocking
 
-Point clouds are color-coded to indicate rendering coverage.
+Point clouds are color-coded every level to indicate rendering coverage.
 
 ---
 
