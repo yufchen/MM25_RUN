@@ -24,8 +24,8 @@ Point clouds are color-coded every level to indicate rendering coverage.
   </tr>
   <tr align="center">
     <td>Original</td>
-    <td>with HoL blocking(10,330 pts)</td>
-    <td>without HoL (16,000 pts)</td>
+    <td>with HoL blocking (10,330 pts)</td>
+    <td>without HoL blocking (16,000 pts)</td>
   </tr>
 </table>
 
@@ -121,11 +121,11 @@ https://www.open3d.org
 [2] Point Clouds. *Point Clouds: 3D Models – Tikal, Guatemala*. Sketchfab.  
 https://sketchfab.com/3d-models/tikal-guatemala-68e7e87ee8664745909518e7b579d3b4
 
-[3] M.P. Bunds, C. Scott, B. Whitney, and V.J.C. Lee. *High Resolution Topography of the Southern San Andreas Fault from Painted Canyon to Bombay Beach, USA*. 2021.  
-Distributed by OpenTopography. https://doi.org/10.5069/G94M92RG
-
-[4] Point Clouds. *Point Clouds: 3D Models – 12th-c CE Water Moon Guanyin*. Sketchfab.  
+[3] Point Clouds. *Point Clouds: 3D Models – 12th-c CE Water Moon Guanyin*. Sketchfab.  
 https://sketchfab.com/3d-models/12th-c-ce-water-moon-guanyin-f3316610c8b740c595c22ca1d7df54ca
+
+[4] M.P. Bunds, C. Scott, B. Whitney, and V.J.C. Lee. *High Resolution Topography of the Southern San Andreas Fault from Painted Canyon to Bombay Beach, USA*. 2021.  
+Distributed by OpenTopography. https://doi.org/10.5069/G94M92RG
 
 [5] Maja Krivokuca, Philip A. Chou, and Patrick Savill. *8i Voxelized Surface Light Field (8iVSLF) Dataset*.  
 ISO/IEC JTC1/SC29/WG11 MPEG, input document M42914, 2018.
